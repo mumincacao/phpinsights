@@ -17,7 +17,7 @@
         }
     ],
     "require": {
-        "php": "^7.4|^8.0",
+        "php": "^7.4|^8.0|^8.2",
         "ext-iconv": "*",
         "ext-json": "*",
         "ext-mbstring": "*",
@@ -41,8 +41,8 @@
     },
     "require-dev": {
         "ergebnis/phpstan-rules": "^0.15.3",
-        "illuminate/console": "^5.8|^6.0|^7.0|^8.0|^9.20|^10.0",
-        "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.52.16|^10.0",
+        "illuminate/console": "^5.8|^6.0|^7.0|^8.0|^9.20|^10.0|^11.0",
+        "illuminate/support": "^5.8|^6.0|^7.0|^8.0|^9.52.16|^10.0|^11.0",
         "mockery/mockery": "^1.6.6",
         "phpstan/phpstan-strict-rules": "^0.12.11",
         "phpunit/phpunit": "^8.0|^9.0|^10.4.2",
